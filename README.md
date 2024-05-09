@@ -1,28 +1,31 @@
-# SharerecipeFrontend
+## Frontend Technologies
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+This project's frontend is built using Angular, Angular Material, and Tailwind CSS.
 
-## Development server
+### Angular Material
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular Material is a UI component library for Angular applications that provides a set of reusable and accessible UI components. It follows Google's Material Design guidelines and allows for the creation of modern and responsive user interfaces.
 
-## Code scaffolding
+### Tailwind CSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Tailwind CSS is a utility-first CSS framework that enables rapid development by providing low-level utility classes that can be composed to build custom designs without writing custom CSS. It allows for a more flexible and efficient way of styling applications compared to traditional CSS frameworks.
 
-## Build
+## Development Setup
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To set up the frontend development environment, follow these steps:
 
-## Running unit tests
+1. **Install Node.js and npm**: Make sure you have Node.js and npm installed on your machine. You can download and install them from [here](https://nodejs.org/).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. **Install Angular CLI**: Install Angular CLI globally on your machine by running the following command:
 
-## Running end-to-end tests
+3. **Clone the Repository**: Clone this repository to your local machine.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+4. **Install Dependencies**: Navigate to the `frontend` directory of the cloned repository and install the dependencies by running:
 
-## Further help
+5. **Start the Development Server**: Start the Angular development server by running:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# sharerecipe_frontend
+6. **Accessing the Application**: Open your browser and navigate to `http://localhost:4200` to access the application.
+
+## Customization
+
+Feel free to customize the frontend by leveraging the features and components provided by Angular Material and Tailwind CSS. Refer to their documentation for more details on customization options and usage.
